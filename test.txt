@@ -1,0 +1,4 @@
+data/obj/out_png_0 - Copy.jpg
+data/obj/out_png_1.jpg
+data/obj/out_png_13 - Copy.jpg
+data/obj/out_png_7.jpg
